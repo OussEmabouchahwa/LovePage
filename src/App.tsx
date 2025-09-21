@@ -3,7 +3,6 @@ import { motion } from "framer-motion";
 import { Heart, Sparkles, Music, Moon, Sun, Crown, Flower2 } from "lucide-react";
 import salwaVideo from "./assets/salwa.mp4";
 import loveImg from "./assets/love.png";
-import { SpeedInsights } from "@vercel/speed-insights/react"
 import zina from "./assets/Zina.mp3"; // <-- local music
 
 // --- Utility: fancy date string ---
